@@ -1,0 +1,43 @@
+.annualPlanWrapper{
+    margin-top: 20px;
+    width: 354px;
+    height: 98px;
+    background-color: #F7F9FF;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 24px;
+}
+.annualPlanWrapper .left{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.annualPlanWrapper .left img{
+    width: 48px;
+    height: 48px;
+}
+.left .prise h4{
+    font-size: 16px;
+    font-weight: 900;
+    line-height: 21px;
+    color: #1F2E55;
+}
+.left .prise h5{
+    margin-top: 6px;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 21px;
+    color: #717FA6;
+}
+.right h6{
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 19px;
+    text-transform: capitalize;
+    color: #382AE1;
+    cursor: pointer;
+}
+.right h6:hover{
+    color: #766CF1;
+}

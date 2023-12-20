@@ -1,0 +1,20 @@
+.titleWrapper{
+    margin-top: 45px;
+}
+.title{
+    font-size: 28px;
+    font-weight: 900;
+    line-height: 37px;
+    text-transform: capitalize;
+    text-align: center;
+    color: #1F2E55;
+}
+.advertisement{
+    margin-top: 17px;
+    width: 300px;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 26px;
+    text-align: center;
+    color: #717FA6;
+}
