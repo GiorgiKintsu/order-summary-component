@@ -68,3 +68,10 @@ table {
 	flex-direction: column;
 	align-items: center;
 }
+
+@media screen and (max-width: 800px){
+	.wrapperDiv{
+		width: 327px;
+		height: 567px;
+	}
+}

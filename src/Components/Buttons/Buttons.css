@@ -30,3 +30,13 @@
     border: 0px white;
     cursor: pointer;
 }
+@media screen and (max-width: 800px){
+    .buttonsWrapper{
+        margin-top: 24px;
+        gap: 24px;
+    }
+    .mainButton{
+        width: 279px;
+        height: 50px;
+    }
+}

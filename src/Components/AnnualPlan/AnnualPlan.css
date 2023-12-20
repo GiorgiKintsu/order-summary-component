@@ -41,3 +41,24 @@
 .right h6:hover{
     color: #766CF1;
 }
+@media screen and (max-width: 800px){
+    .annualPlanWrapper{
+        margin-top: 24px;
+        width: 279px;
+        height: 81px;
+    }
+    .left .prise h5{
+        font-size: 14px;
+        margin-top: 3px;
+    }
+    .left .prise h4{
+        font-size: 14px;
+        line-height: 19px;
+    }
+    .right h6{
+        font-size: 13px;
+        line-height: 17px;
+    }
+}
+
+

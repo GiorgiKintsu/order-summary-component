@@ -18,3 +18,18 @@
     text-align: center;
     color: #717FA6;
 }
+@media screen and (max-width: 800px){
+	.titleWrapper{
+        margin-top: 32px;
+    }
+    .title{
+        font-size: 22px;
+        line-height: 29.11px;
+    }
+    .advertisement{
+        width: 270px;
+        font-size: 15px;
+        line-height: 25px;
+        margin-top: 16px;
+    }
+}
